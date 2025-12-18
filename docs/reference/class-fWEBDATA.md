@@ -44,11 +44,14 @@ Objects can be created by calls of the import or series functions.
 
 ## Note
 
-The import and series functions like [`fredImport`](import-fred.md) and
-[`fredSeries`](import-fred.md) are typical examples which show how to
-implement download functions as simple `timeSeries` objects or as more
-complicate `fWEBDATA` S4 objects. Inspect the R code and feel free to
-create your own download functions and objects.
+The import and series functions like
+[`fredImport`](https://geobosh.github.io/fImportDoc/reference/import-fred.md)
+and
+[`fredSeries`](https://geobosh.github.io/fImportDoc/reference/import-fred.md)
+are typical examples which show how to implement download functions as
+simple `timeSeries` objects or as more complicate `fWEBDATA` S4 objects.
+Inspect the R code and feel free to create your own download functions
+and objects.
 
 ## References
 
@@ -58,4 +61,5 @@ Finance Online, Zurich, www.rmetrics.org.
 
 ## See also
 
-[`fredImport`](import-fred.md), [`fredSeries`](import-fred.md),
+[`fredImport`](https://geobosh.github.io/fImportDoc/reference/import-fred.md),
+[`fredSeries`](https://geobosh.github.io/fImportDoc/reference/import-fred.md),

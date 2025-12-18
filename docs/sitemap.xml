@@ -1,19 +1,19 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/news/index.html</loc></url>
-<url><loc>/reference/00fImport-package.html</loc></url>
-<url><loc>/reference/class-fWEBDATA.html</loc></url>
-<url><loc>/reference/import-fred.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
-<url><loc>/reference/methods-show.html</loc></url>
-<url><loc>/reference/provider-listings.html</loc></url>
-<url><loc>/reference/read-lines.html</loc></url>
-<url><loc>/reference/read-links.html</loc></url>
-<url><loc>/reference/read-lynx.html</loc></url>
-<url><loc>/reference/read-w3m.html</loc></url>
-<url><loc>/reference/utils-download.html</loc></url>
-<url><loc>/reference/utils-split.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/404.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/authors.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/index.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/news/index.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/00fImport-package.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/class-fWEBDATA.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/import-fred.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/index.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/methods-show.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/provider-listings.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/read-lines.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/read-links.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/read-lynx.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/read-w3m.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/utils-download.html</loc></url>
+<url><loc>https://geobosh.github.io/fImportDoc/reference/utils-split.html</loc></url>
 </urlset>
 
